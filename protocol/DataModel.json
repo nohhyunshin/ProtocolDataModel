@@ -1,0 +1,10 @@
+{
+    "timestamp" : "2025-12-17 pm10:12:21",
+    "protocol" : "modbus_tcp",
+    "device_id" : "modbus_01",
+    "data" : {
+        "holding_register40001" : 123,
+        "holding_register40002" : 456,
+        "holding_register40003" : 789
+    }
+}
